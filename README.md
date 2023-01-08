@@ -10,6 +10,9 @@ libraries needed:
 - numpy
 - matplotlib
 - seaborn
+- random
+- collections
+- itertools
 
 This code runs with Python version 3.* and requires these libraries, to install theses libraries you will need to execute:
 ```bash
@@ -41,7 +44,7 @@ Jupyter Notebook containing the Python code.
 
 ## Results
 
-The main findings of the explaination can be found at the post available [here](https://medium.com/p/a8e0ec5795ef)
+The main findings of the explaination can be found at the post available [here](https://medium.com/@saadAIotaibi/data-science-blog-post-which-country-has-the-least-job-satisfaction-in-the-world-e6445a88fab8)
 
 ## Licensing, Authors, Acknowledgements
 
