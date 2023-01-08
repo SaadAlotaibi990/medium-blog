@@ -45,4 +45,5 @@ Jupyter Notebook containing the Python code.
 The main findings of the explaination can be found at the post available [here](https://medium.com/@saadAIotaibi/data-science-blog-post-which-country-has-the-least-job-satisfaction-in-the-world-e6445a88fab8)
 
 ## Licensing, Authors, Acknowledgements
-I must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017).
+- I must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017).
+- source of the picture from the medium blog: https://www.magnussearch.com/10-ways-to-improve-job-satisfaction/
