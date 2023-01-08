@@ -1,10 +1,11 @@
 # Writing a Data Science blog post
 
-Udacity Data Scientist Nanodegree 1st Project.
+## Udacity Data Scientist Nanodegree 1st Project.
 
+## Brief Overview
+Based on Data Science Process (CRISP-DM), the Stackoverflow Developer survey results were collected from Kaggle and investigated using Python and Jupyter.
 
 ## Installation
-
 libraries needed:
 - pandas
 - numpy
@@ -19,13 +20,11 @@ This code runs with Python version 3.* and requires these libraries, to install 
 pip install -r requirements.txt
 ```
 
+## Data Source
 You will need to download Stack Overflow Developer Survey 2017 and put in dataset folders. You can find the data to download [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017).
 
 
-## Project Motivation
-
-This is a Udacity Nanodegree project. I picked Stackoverflow Developer Survey Dataset:
-
+## Project Motivation and Questions need to be answered:
 1. Which countries are surveyed the least?
 2. What are the most popular programming languages?
 3. How are job satisfaction ratings in each country?
@@ -47,5 +46,4 @@ Jupyter Notebook containing the Python code.
 The main findings of the explaination can be found at the post available [here](https://medium.com/@saadAIotaibi/data-science-blog-post-which-country-has-the-least-job-satisfaction-in-the-world-e6445a88fab8)
 
 ## Licensing, Authors, Acknowledgements
-
 I must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017).
